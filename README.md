@@ -1,2 +1,4 @@
-# encode-pipeline-challenge
-DOC repo for ENCODE pipeline challenge
+# ENCODE pipeline challenge
+
+* [WGBS pipeline](WGBS.md)
+* [HiC pipeline](HiC.md)
