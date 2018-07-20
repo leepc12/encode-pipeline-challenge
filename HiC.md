@@ -83,7 +83,6 @@ cat > $INPUT_JSON << EOM
     "hic.reference_index": "dx://project-BKpvFg00VBPV975PgJ6Q03v6:pipeline-genome-data/hg38_chr19_chrM/hic_reference_index/index.tar.gz"
 }
 EOM
-```
 #dx cp $METADATA $DX_PATH_METADATA/$METADATA # it didn't work, manually transfered it to DX
 ```
 
